@@ -1,10 +1,10 @@
 [
   {
-    "id": "grateful-garden",
-    "title": "The Grateful Garden",
-    "subtitle": "A Story About Appreciation",
-    "coverImage": "assets/books/grateful-garden.png",
-    "description": "Join Emma as she discovers the magic of gratitude in her grandmother's enchanted garden, where every thank you makes the flowers bloom brighter. A delightful story that teaches children the power of appreciation.",
+    "id": "pip-the-thankful-pumpkin",
+    "title": "Pip the Thankful Pumpkin",
+    "subtitle": "A Little Pumpkin With a Big Helping Heart",
+    "coverImage": "assets/books/a-little-pumpkin.jpg",
+    "description": "A tiny pumpkin. A big heart. A Thanksgiving story filled with kindness, gratitude, and friendship! Meet Pip, the smallest pumpkin in Maple Hill Farm’s pumpkin patch. Pip dreams of being important—but he thinks he’s too tiny to make a difference. When his friends need help, Pip discovers that even the smallest pumpkin can do BIG things!",
     "values": ["Gratitude", "Appreciation", "Mindfulness"],
     "purchaseLinks": {
       "amazon": "https://www.amazon.com/dp/B0G1K2GBJM"
@@ -12,11 +12,11 @@
     "status": "published"
   },
   {
-    "id": "sharing-is-caring",
-    "title": "Sharing is Caring",
-    "subtitle": "Adventures in Friendship Forest",
-    "coverImage": "assets/books/sharing-caring.png",
-    "description": "When the woodland creatures learn to share their treasures, they discover that friendship is the greatest gift of all. A charming tale that encourages children to embrace the joy of sharing.",
+    "id": "baloo-big-sharing-adventure",
+    "title": "Baloo’s Big Sharing Adventure",
+    "subtitle": "A heartwarming story that teaches kids the joy of sharing and kindness",
+    "coverImage": "assets/books/baloo-shares.jpg",
+    "description": "A beautifully illustrated picture book for kids aged 3–5, full of color, warmth, and heart. When Baloo, a playful baby panda, finds a basket full of delicious berries, he doesn’t want to share them with anyone! But as he sees his forest friends go hungry, Baloo discovers that sharing not only makes others smile — it makes his heart feel full too",
     "values": ["Sharing", "Friendship", "Generosity"],
     "purchaseLinks": {
       "amazon": "https://www.amazon.com/dp/B0G1Q61QRM"
@@ -36,29 +36,28 @@
     "status": "published"
   },
   {
-    "id": "thank-you-tree",
-    "title": "The Thank You Tree",
-    "subtitle": "A Magical Tale of Gratitude",
+    "id": "baloo-and-the-lost-star",
+    "title": "Baloo and the Lost Star",
+    "subtitle": "A bedtime adventure about kindness, teamwork, and wonder",
     "coverImage": "assets/books/thank-you-tree.png",
-    "description": "In a village where a mysterious tree grants wishes, young Maya learns that the most powerful magic comes from a grateful heart. A captivating story that shows children the transformative power of saying thank you.",
-    "values": ["Gratitude", "Wonder", "Magic"],
+    "description": "When a tiny star falls from the sky, Baloo the bear and his forest friends set out on a magical nighttime journey to help it find its way home. Through glowing forests, windy meadows, and twinkling moonlight, they discover that kindness and teamwork shine brighter than any star in the sky.",
+    "values": ["kindness", "Wonder", "teamwork"],
     "purchaseLinks": {
-      "amazon": "https://www.amazon.com/dp/B0G1K2GBJM"
+      "amazon": "https://www.amazon.com/dp/B0G2L3GGYQ"
     },
-    "status": "upcoming",
-    "releaseDate": "Spring 2025"
+    "status": "published"
   },
   {
-    "id": "brave-little-bear",
-    "title": "The Brave Little Bear",
-    "subtitle": "Finding Courage Within",
-    "coverImage": "assets/books/sharing-caring.png",
-    "description": "Little Bear must overcome his fears to help a friend in need, discovering that true bravery isn't about never being scared—it's about doing what's right even when you are.",
-    "values": ["Courage", "Friendship", "Confidence"],
+    "id": "the-star-that-led-to-love",
+    "title": "The Star That Led to Love",
+    "subtitle": "A Christmas Story About Baby Jesus",
+    "coverImage": "assets/books/star-that-led-to-love.png",
+    "description": "Celebrate the magic of Christmas through the gentle story of Jesus’ birth. On a peaceful night in Bethlehem, a bright star lights the sky and guides everyone—Mary, Joseph, shepherds, and even little animals—toward a tiny manger where baby Jesus is born.",
+    "values": ["Christmas", "Jesus", "Celebration"],
     "purchaseLinks": {
-      "amazon": "https://www.amazon.com/dp/B0G1Q61QRM"
+      "amazon": "Coming Soon"
     },
     "status": "upcoming",
-    "releaseDate": "Summer 2025"
+    "releaseDate": "Fall 2025"
   }
 ]
