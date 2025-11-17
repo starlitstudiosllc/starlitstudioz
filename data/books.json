@@ -1,0 +1,64 @@
+[
+  {
+    "id": "grateful-garden",
+    "title": "The Grateful Garden",
+    "subtitle": "A Story About Appreciation",
+    "coverImage": "assets/books/grateful-garden.png",
+    "description": "Join Emma as she discovers the magic of gratitude in her grandmother's enchanted garden, where every thank you makes the flowers bloom brighter. A delightful story that teaches children the power of appreciation.",
+    "values": ["Gratitude", "Appreciation", "Mindfulness"],
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.com/dp/B0G1K2GBJM"
+    },
+    "status": "published"
+  },
+  {
+    "id": "sharing-is-caring",
+    "title": "Sharing is Caring",
+    "subtitle": "Adventures in Friendship Forest",
+    "coverImage": "assets/books/sharing-caring.png",
+    "description": "When the woodland creatures learn to share their treasures, they discover that friendship is the greatest gift of all. A charming tale that encourages children to embrace the joy of sharing.",
+    "values": ["Sharing", "Friendship", "Generosity"],
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.com/dp/B0G1Q61QRM"
+    },
+    "status": "published"
+  },
+  {
+    "id": "kindness-grows",
+    "title": "Kindness Grows",
+    "subtitle": "Planting Seeds of Compassion",
+    "coverImage": "assets/books/kindness-grows.png",
+    "description": "A heartwarming tale of children from different backgrounds who plant a community garden and learn that small acts of kindness can change the world. Perfect for teaching empathy and community values.",
+    "values": ["Kindness", "Community", "Diversity"],
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.com/dp/B0G2L3GGYQ"
+    },
+    "status": "published"
+  },
+  {
+    "id": "thank-you-tree",
+    "title": "The Thank You Tree",
+    "subtitle": "A Magical Tale of Gratitude",
+    "coverImage": "assets/books/thank-you-tree.png",
+    "description": "In a village where a mysterious tree grants wishes, young Maya learns that the most powerful magic comes from a grateful heart. A captivating story that shows children the transformative power of saying thank you.",
+    "values": ["Gratitude", "Wonder", "Magic"],
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.com/dp/B0G1K2GBJM"
+    },
+    "status": "upcoming",
+    "releaseDate": "Spring 2025"
+  },
+  {
+    "id": "brave-little-bear",
+    "title": "The Brave Little Bear",
+    "subtitle": "Finding Courage Within",
+    "coverImage": "assets/books/sharing-caring.png",
+    "description": "Little Bear must overcome his fears to help a friend in need, discovering that true bravery isn't about never being scared—it's about doing what's right even when you are.",
+    "values": ["Courage", "Friendship", "Confidence"],
+    "purchaseLinks": {
+      "amazon": "https://www.amazon.com/dp/B0G1Q61QRM"
+    },
+    "status": "upcoming",
+    "releaseDate": "Summer 2025"
+  }
+]
